@@ -5,6 +5,13 @@ This Unity package provides animated text effects for TextMesh Pro.
 ![Feature Animation](assets/images/tmp_animated_1.gif)
 ![Feature Animation](assets/images/tmp_animated_2.gif)
 
+
+To animate text, simply wrap it with the corresponding `[anim]` tag. This syntax is similar to Godot's **RichTextLabel** functionality, where you can easily apply text formatting and animations directly within the text string.
+
+
+Here’s the basic syntax:
+![Feature Animation](assets/images/tmp_animated_3.png)
+
 ## Installation
 
 You can add this package to your Unity project using Unity's Package Manager with the following Git URL.
