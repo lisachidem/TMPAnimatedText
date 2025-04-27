@@ -1,0 +1,16 @@
+{
+    "name": "lisachidem.tmpanimated.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:32041d81a50564a57839de713163aad1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

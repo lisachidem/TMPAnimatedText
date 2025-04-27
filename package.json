@@ -1,0 +1,19 @@
+{
+  "name": "com.lisachidem.tmpanimated",
+  "version": "1.0.0",
+  "displayName": "Lisa's Animated Text",
+  "description": "A component allows you to animate tmp text easily.",
+  "unity": "2019.1",
+  "unityRelease": "0f1",
+  "keywords": [
+    "TextMeshPro",
+    "AnimatedText",
+    "TextAnimation"
+  ],
+  "author": {
+    "name": "Lisa Chidem",
+    "email": "lisasmagicalcult@gmail.com",
+    "url": "https://lisachidem.neocities.org/"
+  }
+}
+
