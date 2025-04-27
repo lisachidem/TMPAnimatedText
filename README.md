@@ -2,6 +2,9 @@
 
 This Unity package provides animated text effects for TextMesh Pro.
 
+![Feature Animation](assets/images/tmp_animated_1.gif)
+![Feature Animation](assets/images/tmp_animated_2.gif)
+
 ## Installation
 
 You can add this package to your Unity project using Unity's Package Manager with the following Git URL.
