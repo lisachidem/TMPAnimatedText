@@ -1,6 +1,5 @@
 # TMPAnimatedText
 
-A component allows you to animate tmp text easily.
 This Unity package provides animated text effects for TextMesh Pro.
 
 ## Installation
