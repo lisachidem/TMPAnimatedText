@@ -34,6 +34,11 @@ namespace TMPAnimatedEffects
         {
             Initialize();
         }
+        
+        public void Reboot()
+        {
+            Initialize();
+        }
 
         private void Initialize()
         {
