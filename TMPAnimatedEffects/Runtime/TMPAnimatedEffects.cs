@@ -224,6 +224,10 @@ namespace TMPAnimatedEffects
             for (var m = 0; m < _textInfo.meshInfo.Length; m++)
             {
                 var meshInfo = _textInfo.meshInfo[m];
+
+                if (meshInfo.mesh == null) continue;
+                if (!meshInfo.mesh) continue;
+
                 meshInfo.mesh.vertices = meshInfo.vertices;
                 meshInfo.mesh.colors32 = meshInfo.colors32;
                 _textComponent.UpdateGeometry(meshInfo.mesh, m);
